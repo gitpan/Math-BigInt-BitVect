@@ -1,0 +1,15 @@
+CHANGES
+BUGS
+INSTALL
+README
+LICENSE
+MANIFEST
+CREDITS
+TODO
+Makefile.PL
+examples/bigp.pl
+lib/Math/BigInt/BitVect.pm
+bench/bgcd.pl
+t/bigintbv.t			# Bit::Vector implementation of uint math core
+t/bigintpm.t			# original test, but with Bit::Vector
+t/bigfltpm.t			# original test, but with Bit::Vector
