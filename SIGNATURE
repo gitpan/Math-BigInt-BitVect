@@ -1,0 +1,46 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.36.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It would check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+
+SHA1 a77182f1555b7351b2a47f039e0def1482043500 BUGS
+SHA1 08687405746647d001545ad088c267d1557a4e34 CHANGES
+SHA1 939b65fbbf8ce48c0b2ec668d0835f4c8d1946b4 CREDITS
+SHA1 4bbbd30c2feaa7c5c9f3d88b8b5cb38bf6e4c889 INSTALL
+SHA1 d6a6c30ee6d9ba6b9afab8bbf6a25e1b23c744e0 LICENSE
+SHA1 f87ee38cb0fef05af9c9a14427fd1ef600c190af MANIFEST
+SHA1 75123ad5fb5ce8c2052f5b99c5c80e8ccc1f5fff META.yml
+SHA1 9b53c16b80ca7eb953dbb3e035428e186e795def Makefile.PL
+SHA1 01e5682f6089c1b39391536f1baf0fccbac7e36e NEW
+SHA1 4bbbd30c2feaa7c5c9f3d88b8b5cb38bf6e4c889 README
+SHA1 864201fe982f34b866f848cb0a8923fbb41b6f3f TODO
+SHA1 e93eec519c05cc643cc16a4bfb07f29b240ed2e2 bench/bgcd.pl
+SHA1 7e67e308c74c151d2bec661d3980c9015d62896d examples/bigp.pl
+SHA1 c2a019ea8816940313806e837f552016f2fa12eb lib/Math/BigInt/BitVect.pm
+SHA1 405dba0119ac22f5faaea780b14c7659a14421fd t/bigfltpm.inc
+SHA1 fd1594f88638de731901215ae8a7c38f970b0a3f t/bigfltpm.t
+SHA1 4c33b5578086d13b2eceaaca4eaf1124aeb2fb7c t/bigintbv.t
+SHA1 24a9b7395ffc8f73873813c7732fb5711d45f30f t/bigintpm.inc
+SHA1 2e93ff2519dc3637a9f7aa557b050770fa66f1d9 t/bigintpm.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.2-rc1-SuSE (GNU/Linux)
+Comment: When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl.
+
+iQEVAwUBP/mpZ3cLPEOTuEwVAQHrNAf7BQTyy3ZTXwP38R5pyd2XSMvrGfc1gtIZ
+OfQvEDl/lgYK7EwaEOZZH1bCfuAEvO7aez+4VGaNlH/Z/aGPGQA3vnOlpBEzpbg0
+HrcpUDW4leALVcv8Jiy1HClwN58J3xXbhiasgdhzx0NsZyFC5TkM2rGW3L8Bcfad
+2MPEQzwbsuOVMCYdJldTgg6wQ+hqBiny/SpjbvX8OQYY6R6XfPamww44nIcJxwzZ
+xRkiC9zlRYd3MTT/9F41kZCxQUgiCmZ9+ENmV1G5nyP1OF6zPCYcFp9Ju0zHfdfX
+TECxtvuDerb8NvRr7nWHQrCLtEEWMOrY7Kb6NTKSHGFUBp+tmnb7xw==
+=DIHw
+-----END PGP SIGNATURE-----

@@ -1,10 +1,12 @@
-CHANGES
 BUGS
+CHANGES
+CREDITS
 INSTALL
-README
 LICENSE
 MANIFEST
-CREDITS
+NEW
+README
+SIGNATURE
 TODO
 Makefile.PL
 examples/bigp.pl
@@ -15,3 +17,4 @@ t/bigintpm.t			# original test, but with Bit::Vector
 t/bigfltpm.t			# original test, but with Bit::Vector
 t/bigintpm.inc			# actual tests
 t/bigfltpm.inc			# actual tests
+META.yml			# Module meta-data (added by MakeMaker)
