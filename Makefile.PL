@@ -5,8 +5,8 @@ WriteMakefile(
     'NAME'		=> 'Math-BigInt-BitVect',
     'VERSION_FROM'	=> 'lib/Math/BigInt/BitVect.pm', # finds $VERSION
     'PREREQ_PM'		=> {
-				Math::BigInt => 1.45,
-				Math::BigFloat => 1.23,
+				Math::BigInt => 1.49,
+				Math::BigFloat => 1.27,
 				Bit::Vector => 6.0,
 			   },
     'LIBS'		=> [''], # e.g., '-lm'
